@@ -3,7 +3,7 @@ import ticker_plot as tk
 import yfinance as yf
 import pandas as pd
 
-
+#testing git
 def data_description(data,symbol):
     """print the data description in tablular format(mean, std, max, quartiles etc)"""
     if(len(data)>0):

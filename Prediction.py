@@ -12,6 +12,8 @@ from sklearn.model_selection import train_test_split
 import yfinance as yf
 from sklearn.svm import SVR
 
+
+#testing git
 def smape_kun(y_true, y_pred):
     return np.mean((np.abs(y_pred - y_true) * 200/ (np.abs(y_pred) + np.abs(y_true))))
 

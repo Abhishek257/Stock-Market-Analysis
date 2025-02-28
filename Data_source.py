@@ -2,7 +2,7 @@ import yfinance as yf
 import datetime
 import pandas as pd
 import os
-##testing a change 2s
+##testing a change 2s 3s
 
 '''https://pypi.org/project/yfinance/
 	https://algotrading101.com/learn/yfinance-guide/
